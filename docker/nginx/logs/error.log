@@ -28,3 +28,4 @@
 2022/05/28 08:24:18 [alert] 19#19: *61 pread() read only 270 of 272 from "/var/www/styles/style.css" while sending response to client, client: 172.19.0.1, server: localhost, request: "GET /styles/style.css?v=1653726258 HTTP/1.1", host: "localhost", referrer: "http://localhost/catalog.php"
 2022/05/28 08:24:18 [alert] 19#19: *63 pread() read only 270 of 272 from "/var/www/styles/style.css" while sending response to client, client: 172.19.0.1, server: localhost, request: "GET /styles/style.css?v=1653726258 HTTP/1.1", host: "localhost", referrer: "http://localhost/catalog.php"
 2022/05/28 08:24:20 [alert] 19#19: *64 pread() read only 270 of 272 from "/var/www/styles/style.css" while sending response to client, client: 172.19.0.1, server: localhost, request: "GET /styles/style.css?v=1653726260 HTTP/1.1", host: "localhost", referrer: "http://localhost/catalog.php"
+2022/11/08 16:13:11 [emerg] 1#1: host not found in upstream "php-fpm" in /etc/nginx/nginx.conf:116
